@@ -2,6 +2,17 @@
 
 CS student at Al Akhawayn University (Ifrane, Morocco), building software.
 
+## What I'm working on
+
+I'm building **DarbAI**, an AI chatbot that hotels and riads in Morocco can put on their own website to answer guest questions instantly : check-in times, amenities, directions, local recommendations, without a human answering the same messages all day.
+
+Each hotel gets a chatbot branded as their own, running on a shared backend I built and maintain. Under the hood it's a Go backend with a Postgres database, streaming responses in real time, with each hotel's chatbot kept isolated from the others (its own settings, its own usage limits, its own data).
+
+Right now I'm past the building phase and into the harder part: getting actual hotel owners to try it.
+
+- Live demo: [demo.darbai.org](https://demo.darbai.org)
+- Info page: [darbai.org](https://darbai.org)
+
 ## How I work
 
 - Daily driver: Arch Linux + Hyprland on a ThinkPad.
