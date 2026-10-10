@@ -22,4 +22,4 @@ Chess, Half life 1 & 2, basketball, ping pong.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-AHID&show_icons=true&theme=dark&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevNezar&show_icons=true&theme=dark&hide_title=true)
